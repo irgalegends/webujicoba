@@ -1,0 +1,138 @@
+.bawah_judul{
+	font-size: 22px;
+}
+.fontjudul{
+	font-family: Helvetica;
+	font-size: 35px;
+}
+
+.ui_angka{
+	font-family: arial;
+	font-size: 20px;
+	
+}
+.ui_tabel_css{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.ugm_angka{
+	font-family: Arial;
+	font-size: 20px;
+}
+.ugm_tabel_css{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.unbra_angka{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.unbra_tabel_css{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.unair_angka{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.unair_tabel_css{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.uns_angka{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.uns_tabel_css{
+	font-family: arial;
+	font-size: 20px;
+}
+.warna1{
+	background-color:darkolivegreen;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.warna2{
+	background-color: darkolivegreen;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.warna_background_tabel_ugm{
+	background-color: darkolivegreen;
+}
+
+.warna4{
+	background-color: darkolivegreen;
+}
+
+.univin{
+	height: 300px;
+	width: 500px;
+	border-color: gray;
+	margin-left: 150px;
+}
+
+.ugmniv{
+	height: 300px;
+	width: 500px;
+	border-color: gray;
+	margin-left: 150px;
+}
+
+.nivbra{
+	height: 300px;
+	width: 500px;
+	border-color: gray;
+	margin-left: 150px;
+}
+
+.nair{
+	height: 300px;
+	width: 500px;
+	border-color: gray;
+	margin-left: 150px;
+}
+
+.ns{
+	right: 120px;
+	height: 300px;
+	width: 500px;
+	border-color: gray;
+	margin-left: 150px;
+}
+
+.square{
+	height: 1600;
+	width: 12500;
+	background-color: darkblue;
+	position: relative;
+	right: 11150px;
+	
+	
+}
+
+
+.bentuk{
+	height: 10px;
+	width: 15250px;
+	background-color: grey;
+    position: relative;
+	right: 8px;
+}
+
+body{
+	background: url("flower.png");
+	background-repeat: repeat-x repeat-y;
+	background-position: center top;
+	overflow-x: hidden;
+}
+

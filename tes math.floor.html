@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contoh Math.floor()</title>
+</head>
+<body>
+  <h1>Contoh Math.floor()</h1>
+  <p id="result"></p>
+
+  <script>
+    // Mendapatkan angka acak antara 0 dan 10
+    var randomNum = Math.random() * 20;
+
+    // Membulatkan angka ke bawah menggunakan Math.floor()
+    var roundedNum = Math.ceil(randomNum);
+
+    // Menampilkan hasilnya di dalam elemen <p> dengan id "result"
+    document.getElementById("result").innerHTML = "Angka terbulatkan keatas: " + roundedNum;
+  </script>
+</body>
+</html>
